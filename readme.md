@@ -8,4 +8,4 @@
 - 4. tambah kan folder / file ke stage local dengan memasukan commande git add .
 - 5. lakukan commit ke local git 
 - 6. push ke repo
-
+- 7. add some line
